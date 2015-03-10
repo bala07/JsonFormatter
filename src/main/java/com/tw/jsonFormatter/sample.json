@@ -1,0 +1,4 @@
+{"name": "Balasubramanian","age": "23","interests": ["reading", "badminton", "cricket"],"address": {"street": "street1", "city": "city1", "phone": {"work": "123", "home": "456"}
+  },
+  "occupation": "engineer"
+}
